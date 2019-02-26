@@ -6,7 +6,7 @@ function dancerOne() {
 
   function dancerTwo() {
     let answer = "Yes, I would like to dance!";
-    console.log(`Hey, I heard you ask me '${question}' and I would just like to say '${answer}'`);
+    console.log(`Hey, I heard you ask me, '${question}' and I would just like to say, '${answer}'`);
     
 
   }
