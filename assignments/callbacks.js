@@ -76,11 +76,11 @@ contains('Pencil', items, function(result){
 
 /* STRETCH PROBLEM */
 
-function removeDuplicates(array, cb) {
-  let sortedArr = array.sort();
-  for(let i = 0; i < sortedArr.length; i++){
-    if(sortedArr[i])
-  }
+// function removeDuplicates(array, cb) {
+//   let sortedArr = array.sort();
+//   for(let i = 0; i < sortedArr.length; i++){
+//     if(sortedArr[i])
+//   }
   // removeDuplicates removes all duplicate values from the given array.
   // Pass the duplicate free array to the callback function.
   // Do not mutate the original array.
