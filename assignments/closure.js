@@ -1,6 +1,20 @@
 // ==== Challenge 1: Write your own closure ====
 // Write a simple closure of your own creation.  Keep it simple!
 
+function dancerOne() {
+  let question = "Would you like to dance?";
+
+  function dancerTwo() {
+    let answer = "Yes, I would like to dance!";
+    console.log(`Hey, I heard you ask me, '${question}' and I would just like to say, '${answer}'`);
+    
+
+  }
+  dancerTwo();
+}
+
+dancerOne();
+
 
 /* STRETCH PROBLEMS, Do not attempt until you have completed all previous tasks for today's project files */
 
